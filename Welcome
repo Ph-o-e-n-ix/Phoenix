@@ -1,0 +1,10 @@
+Interested in Fivem Development.
+Lua Fivem Scripts and Fivem Mapping [YMap]
+
+
+Citizen.CreateThread(function()
+  while true do
+    Citizen.Wait(1)
+    print("I want to release some Scripts")
+  end
+end)
